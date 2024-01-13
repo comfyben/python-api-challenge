@@ -1,1 +1,3 @@
 # python-api-challenge
+
+I only used the api activity folders from class as reference for this homework. I definitely used the GeoApiFy documentation to make sure I had all the necessary information for the catagory accommidation.hotel. I did end up running the randomized city search twice because I didn't finish the weather.py section the first time I opened it. After running it again I re-ran the completed vacation.py to make sure all the maps were updated from the new csv file. 
